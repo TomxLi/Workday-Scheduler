@@ -13,5 +13,4 @@ This application uses jquery and moment.js, and Bootstrap.
 ```
 
 ## LIVE URL
-
-https://tomxli.github.io/Code-Quiz/.
+https://tomxli.github.io/Workday-Scheduler/
